@@ -10,9 +10,8 @@ Este repositório contém a coleção completa de artefatos elaborados ao longo 
 
 ## 👥 Equipe  
 O projeto foi idealizado e desenvolvido por:  
-- **Ryan Faustino Carvalho**  
-- **Luis Felipe Patrocínio**  
-- **Herminio Neto**  
+- **[Herminio Neto](https://link-para-o-perfil-de-herminio-neto)**  
+- **[Luis Felipe Patrocínio](https://link-para-o-perfil-de-luis-felipe-patrocinio)**  
+- **[Ryan Faustino Carvalho](https://link-para-o-perfil-de-ryan-faustino-carvalho)**  
 
-A equipe está comprometida com a entrega de uma solução inovadora que impacte positivamente o ensino, tornando-o mais eficiente e atrativo.  
-
+A equipe está comprometida com a entrega de uma solução inovadora que impacte positivamente o ensino, tornando-o mais eficiente e atrativo. 
