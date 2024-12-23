@@ -6,7 +6,7 @@
 - Ryan Faustino Carvalho  
 
 ## Briefing
-📋 A reunião de briefing do projeto **PatroClass**, conduzida pela equipe, estabeleceu a base para a criação de uma plataforma interativa voltada para alunos e professores. Com funcionalidades como registro de aulas e desenvolvimento de tópicos em tempo real, o sistema busca tornar a experiência de aprendizado mais dinâmica e gamificada.  
+📋 A reunião de briefing do projeto **Synapse**, conduzida pela equipe, estabeleceu a base para a criação de uma plataforma interativa voltada para alunos e professores. Com funcionalidades como registro de aulas e desenvolvimento de tópicos em tempo real, o sistema busca tornar a experiência de aprendizado mais dinâmica e gamificada.  
 
 ⚙️ O projeto será implementado com **Django Rest Framework** para o backend e **Flutter** para o front-end mobile, com conclusão prevista para **fevereiro de 2025**.  
 
