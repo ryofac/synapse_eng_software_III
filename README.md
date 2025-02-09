@@ -19,3 +19,10 @@ O projeto foi idealizado e desenvolvido por:
 - **[Ryan Faustino Carvalho](https://github.com/ryofac/)**
 
 A equipe está comprometida com a entrega de uma solução inovadora que impacte positivamente o ensino, tornando-o mais eficiente e atrativo.
+
+## 🚀 Implementação  
+
+O código-fonte do projeto está sendo mantido por:  
+
+- **Front-End (Flutter - Dart):** [synapse-mobile](https://github.com/ryofac/synapse-mobile.git)  
+- **Back-End (Fastify - Node):** [synapse-back](https://github.com/ryofac/synapse-back)  
